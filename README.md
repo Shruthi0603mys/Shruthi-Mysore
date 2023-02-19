@@ -1,5 +1,4 @@
-# Shruthi Mysore
-I'm
+# Shruthi Mysore:
 Full Stack Developer
 
 Languages and Tools: 
